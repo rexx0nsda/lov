@@ -15,11 +15,11 @@
             </template>
         </transition>
         <form action="" @submit.prevent>
-            <input class="input" v-model="login" type="text" name="login" id="1"
+            <input class="input" v-model="Login" type="text" name="login" id="1"
                    placeholder="Логин">
             <input class="input" v-model="password" type="password" name="password" id="2"
                    placeholder="Пароль">
-            <button class="button" @click="Next(login, password)">Зайти</button>
+            <button class="button" @click="Next(Login, password)">Зайти</button>
         </form>
         <transition mode="out-in" name="fade">
             <button v-if="pod" class="pod" @click="usePod">Использовать подсказку</button>
@@ -60,7 +60,7 @@ function Next(loginIn, passwordIn) {
         laught.value = false
     }
 
-    login.value = ''
+    Login.value = ''
     password.value = ''
 }
 </script>
