@@ -21,9 +21,9 @@
         <h2>🤭</h2>
         <p>Много было потрачено нервов для этого</p>
         <div class="block-4--img">
-            <img src="/src/assets/photo_2024-01-11_03-22-43%201.png" alt="">
+            <img src="/src/assets/photo_2024-01-11_03-22-431.png" alt="">
             <img src="/src/assets/Screenshot_8%201.png" alt="">
-            <img src="/src/assets/photo_2024-03-08_11-31-56%201.png" alt="">
+            <img src="/src/assets/photo_2024-03-08_11-31-561.png" alt="">
         </div>
     </div>
     <div class="block-5">
