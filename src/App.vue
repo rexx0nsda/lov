@@ -8,11 +8,15 @@
 
 <style>
 * {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     box-sizing: border-box;
-    font-style: normal;
-    font-family: IBM Plex Mono, monospace;
     text-align: center;
+    font-family: "Inter Light", sans-serif;
+    font-size: 48px;
+    font-weight: 300;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    transition: 200ms;
 }
 </style>
