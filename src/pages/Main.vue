@@ -157,7 +157,16 @@ p {
 }
 
 @media screen and (max-width: 642px) {
+    .block-5 {
+        height: unset;
+        padding-bottom: 100px;
+        p {
+            font-size: 22px;
+            line-height: 25px   ;
+        }
+    }
     .block-4 {
+        height:unset ;
         h1 {
             padding-top: 200px;
         }
